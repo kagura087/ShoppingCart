@@ -1,2 +1,1 @@
-# ShoppingCart
-Shopping Cart Project but Connect to Database
+Proyek Keranjang Belanja Simpel UTS
